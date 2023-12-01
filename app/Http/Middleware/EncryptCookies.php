@@ -1,3 +1,5 @@
+//Cookie generation code
+
 <?php
 
 namespace App\Http\Middleware;
