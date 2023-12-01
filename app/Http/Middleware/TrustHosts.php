@@ -1,3 +1,4 @@
+//Host authentication code
 <?php
 
 namespace App\Http\Middleware;
