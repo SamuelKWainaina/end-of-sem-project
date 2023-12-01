@@ -1,3 +1,4 @@
+//Http Kernel code
 <?php
 
 namespace App\Http;
