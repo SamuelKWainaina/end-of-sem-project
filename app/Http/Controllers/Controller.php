@@ -1,3 +1,4 @@
+// Authorization and Validation of Requests
 <?php
 
 namespace App\Http\Controllers;
