@@ -1,4 +1,4 @@
-//Requesting Prevention code
+//Requests Prevention code
 <?php
 
 namespace App\Http\Middleware;
