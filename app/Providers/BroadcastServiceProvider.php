@@ -1,3 +1,5 @@
+//Broadcast provider
+
 <?php
 
 namespace App\Providers;
