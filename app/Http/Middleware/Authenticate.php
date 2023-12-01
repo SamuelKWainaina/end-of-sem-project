@@ -1,3 +1,4 @@
+//Authentication Code
 <?php
 
 namespace App\Http\Middleware;
