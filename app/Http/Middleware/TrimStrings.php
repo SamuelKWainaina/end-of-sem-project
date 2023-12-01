@@ -1,3 +1,5 @@
+//Reducing the number of Strings code
+
 <?php
 
 namespace App\Http\Middleware;
