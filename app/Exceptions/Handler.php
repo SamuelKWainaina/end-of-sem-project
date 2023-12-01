@@ -1,3 +1,4 @@
+// Exception Handler
 <?php
 
 namespace App\Exceptions;
