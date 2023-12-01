@@ -1,3 +1,4 @@
+//Verification and Authentication code
 <?php
 
 namespace App\Http\Controllers\Auth;
