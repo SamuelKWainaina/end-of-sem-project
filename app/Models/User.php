@@ -1,3 +1,5 @@
+//User Authentication and Verification
+
 <?php
 
 namespace App\Models;
